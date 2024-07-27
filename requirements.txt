@@ -1,0 +1,5 @@
+debugpy
+jupyter
+numpy
+pandas
+matplotlib
